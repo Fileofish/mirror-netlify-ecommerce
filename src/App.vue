@@ -6,7 +6,7 @@
       Деплой был перенесен на Vercel.
     </p>
     <p>
-      Для проверки нашей работы просим перейти по сслыке
+      Для проверки нашей работы просим перейти по ссылке
       <a href="https://e-commerce-application-eight.vercel.app/" class="link"
         >https://e-commerce-application-eight.vercel.app/</a
       >
